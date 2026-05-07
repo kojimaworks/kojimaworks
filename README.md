@@ -12,7 +12,7 @@ Java / Spring Boot / Spring Framework / PostgreSQL / Oracle / PL/SQL
 Vue.js / React.js / TypeScript / JavaScript
 
 **AI / Tools**
-GitHub Copilot / Claude / Cursor / LangChain（学習中）
+GitHub Copilot / Claude
 
 **Working with**
 Linux / Git (GitLab/GitHub) / Redmine / Backlog / Figma
