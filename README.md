@@ -27,7 +27,7 @@ Linux / Git (GitLab/GitHub) / Redmine / Backlog / Figma
 
 ## 🚀 Currently building
 
-- **Spring Boot コードレビューエージェント**（PoC、5月公開予定） — LLM で Java/Spring プロジェクトのコードレビューを自動化
+- **Spring Boot コードレビューエージェント**（PoC、5月公開予定） — Java/Spring プロジェクト向け、観点カスタマイズ可能なAIコードレビュー支援
 - 業務外でAIエージェントアプリの実装
 
 ## 📝 Writing
