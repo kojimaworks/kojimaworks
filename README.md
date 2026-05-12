@@ -37,7 +37,6 @@ Linux / Git (GitLab/GitHub) / Redmine / Backlog / Figma
 
 ## 💼 Looking for
 
-**2026年7月〜の準委任案件**に対応可能です。
 - **Java × Vue/Spring Boot** のフルスタック開発、リード兼務
 - **AI機能組み込み / AIエージェント開発** 領域
 
